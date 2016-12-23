@@ -34,6 +34,7 @@ public class Kakaolink {
 
     // Default constructor.
     // The only param is 'Context'.
+    // asdfasdfasdf
     Kakaolink(Context context) {
         this.context = context;
 
